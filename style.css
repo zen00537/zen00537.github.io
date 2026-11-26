@@ -43,11 +43,11 @@ a {
         リスト
 -------------------- */
 
-ul {
+ul > li {
   list-style-type: "★ ";
 }
 
-ul ul {
+ul ul > li {
   list-style-type: "・";
 }
 
